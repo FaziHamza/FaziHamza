@@ -26,7 +26,7 @@
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=FaziHamza&layout=compact"/>
  </div>
   <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=adiwajshing&show_icons=true&locale=en" alt="FaziHamza" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=FaziHamza&show_icons=true&locale=en" alt="FaziHamza" />
  </div>
 
 <div id="badges" align="center">
