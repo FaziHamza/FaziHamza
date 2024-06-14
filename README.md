@@ -46,7 +46,7 @@
 </div>
   <div align="center">
   <h3>Work with me</h3>
-    <a href="https://www.upwork.com/freelancers/~01aa518a050e54d70a">
+    <a href="https://www.upwork.com/">
      <img src="https://user-images.githubusercontent.com/34067718/173792897-e9c73c53-ae45-4e26-bc74-276e1c5bfb79.png" alt="UpWork" width="5%"/>
     </a>
      <a href="https://www.fiverr.com/FaziHamza?up_rollout=true">
