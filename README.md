@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi there! I'm Faizan Hamza</h1>
 <h3 align="center">Full-Stack .NET  Angualr Developer </h3>
-<h5 align="center">Learning NestJs....</h5>
+<h5 align="center">Learning NestJs and Microservices....</h5>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=FaziHamza&label=Profile%20views&color=0e75b6&style=flat" alt="FaziHamza" /> </p>
 
   👋 Hi there! I'm Fazi Hamza , a Full-Stack .NET Developer passionate about creating efficient and scalable web applications. With expertise in both front-end and back-end development, I strive to deliver high-quality solutions that meet client requirements and exceed expectations.
