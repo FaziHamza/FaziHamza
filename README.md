@@ -6,7 +6,7 @@
   👋 Hi there! I'm Fazi Hamza , a Full-Stack .NET Developer passionate about creating efficient and scalable web applications. With expertise in both front-end and back-end development, I strive to deliver high-quality solutions that meet client requirements and exceed expectations.
 
   -📫 How to reach me: 
-                      You can reach out to me via email at adilwaheed2222.com@gmail.com. I'm always open to new opportunities, collaborations, and discussions related to web development and .NET technologies.
+                      You can reach out to me via email at faizan8887r@gmail.com. I'm always open to new opportunities, collaborations, and discussions related to web development and .NET technologies.
 
   <div align="center">
     
