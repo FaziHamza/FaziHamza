@@ -1,5 +1,14 @@
 <h1 align="center">👋 Hi there! I'm Faizan Hamza</h1>
-<h3 align="center">Full-Stack .NET  Angualr Developer </h3>
+
+<ul>
+  <li><strong>Email Address:</strong> faizan8887r@gmail.com</li>
+  <li><strong>GitHub User:</strong> <a href="https://github.com/FaziHamza" target="_blank">FaziHamza</a></li>
+  <li><strong>TestFlight Email:</strong> faizan8887r@gmail.com</li>
+  <li><strong>Android Tester Email:</strong> faizan8887r@gmail.com</li>
+  <li><strong>Slack Account:</strong> faizan8887r@gmail.com</li>
+</ul>
+
+<h3 align="center">Full-Stack .NET ,Blazor, MAUI , Angualr Developer </h3>
 <h5 align="center">Learning NestJs and Microservices....</h5>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=FaziHamza&label=Profile%20views&color=0e75b6&style=flat" alt="FaziHamza" /> </p>
 
